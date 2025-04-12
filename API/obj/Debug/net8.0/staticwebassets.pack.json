@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cdelacruz\\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\\Escritorio\\Api_Curso\\NetMovies\\API\\wwwroot\\images\\4_0a146333-f615-4e79-af98-cfaa228e5d3e.jpg",
+      "PackagePath": "staticwebassets\\images\\4_0a146333-f615-4e79-af98-cfaa228e5d3e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cdelacruz\\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\\Escritorio\\Api_Curso\\NetMovies\\API\\wwwroot\\images\\7_6e4559c3-11ec-4805-9df4-415d111af9e6.jpg",
+      "PackagePath": "staticwebassets\\images\\7_6e4559c3-11ec-4805-9df4-415d111af9e6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
