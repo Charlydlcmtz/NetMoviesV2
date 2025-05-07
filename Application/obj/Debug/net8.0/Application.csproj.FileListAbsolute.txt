@@ -13,3 +13,4 @@ C:\Users\cdelacruz\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\Escritorio\Api_Cu
 C:\Users\cdelacruz\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\Escritorio\Api_Curso\NetMovies\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\cdelacruz\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\Escritorio\Api_Curso\NetMovies\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\cdelacruz\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\Escritorio\Api_Curso\NetMovies\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\cdelacruz\OneDrive - TRANSPORTES CUAUHTEMOC, SA DE CV\Escritorio\Api_Curso\NetMovies\Application\obj\Debug\net8.0\Application.sourcelink.json
